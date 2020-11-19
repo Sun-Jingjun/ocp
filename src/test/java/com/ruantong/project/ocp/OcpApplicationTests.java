@@ -8,6 +8,7 @@ class OcpApplicationTests {
 
     @Test
     void contextLoads() {
+		System.out.println("tset");
     }
 
 }
